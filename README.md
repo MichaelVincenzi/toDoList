@@ -29,7 +29,13 @@ git clone https://github.com/MichaelVincenzi/toDoList
 
 2. Boot the project
 
-cd toDoList
+cd toDoList/backend/
+npm install
+
+cd ../frontend/
+npm install
+
+cd ..
 npm run start
 
 3. Go to frontend
@@ -50,4 +56,3 @@ If you desite to contribute to this project, follow these steps:
 
     Author: Michael Vincenzi
     Email: mich.vinc.03@gmail.com
-

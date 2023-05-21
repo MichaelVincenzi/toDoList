@@ -4,7 +4,7 @@ I made this project for my personal purposes.
 
 ## FUNCIONALITIES
 
-Main funcionalities:
+Main functionalities:
 
 - Learn to use web programming languages 
 - Learn to use restful api 

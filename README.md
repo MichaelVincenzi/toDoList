@@ -2,7 +2,7 @@
 
 I made this project for my personal purposes.
 
-## FUNCIONALITIES
+## FUNCTIONALITIES
 
 Main functionalities:
 
